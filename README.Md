@@ -1,4 +1,4 @@
-# NFT Marketplace built on Cosmwasm
+# NFT Marketplace + CW20 deposits. Built with Cosmwasm.
 
 ### Features
 
